@@ -57,7 +57,7 @@ def generate_random_password():
 
 	## converting the list to string
 	## printing the list
-	print("".join(password))
+	print("La tua password è -> "+"".join(password))
 
 
 
